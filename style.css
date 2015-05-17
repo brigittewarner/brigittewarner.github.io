@@ -15,7 +15,8 @@ ul.navigation {
 }
 
 ul.navigation li {
-  display: inline;
+  display: inline-block;
+  float: left;
 }
 
 ul.navigation a {
@@ -23,6 +24,7 @@ ul.navigation a {
   display: block;
   padding: 10px;
   text-decoration: none;
+  max-width: 10%;
 }
 
 ul.navigation a:hover {
