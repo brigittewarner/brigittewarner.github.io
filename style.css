@@ -1,4 +1,4 @@
-body {
+/*body {
   background-attachment: fixed;
   background-image: url(milkway_splash.jpeg);
   background-position: center center;
@@ -6,14 +6,14 @@ body {
   background-size: cover;
   padding: 0;
   margin: 0;
-}
+}*/
 
 h1, h2, p {
   color: red;
   text-align: center;
 }
 
-ul.navigation {
+/*ul.navigation {
   background-color: white;
   display: block;
   list-style: none;
@@ -44,5 +44,5 @@ ul.navigation a:hover {
 }
 #section2 {
   background-color: magenta;
-}
+}*/
 
