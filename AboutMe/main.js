@@ -16,6 +16,7 @@ var showSection2 = function() {
 
 button1.addEventListener("click", function(e) {
     showSection2();
+    console.log("I was clicked");
 });
 
 button2.addEventListener("click", function(e) {
