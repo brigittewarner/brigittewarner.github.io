@@ -11,7 +11,7 @@ h1, h2, p {
   text-align: center;
 }
 
-/*ul.navigation {
+ul.navigation {
   background-color: white;
   display: block;
   list-style: none;
@@ -42,5 +42,5 @@ ul.navigation a:hover {
 }
 #section2 {
   background-color: magenta;
-}*/
+}
 
