@@ -36,3 +36,11 @@ ul.navigation a:hover {
   background-color: black;
   color: white;
 }
+
+#section1 {
+  background-color: lime;
+}
+#section1 {
+  background-color: magenta;
+}
+
