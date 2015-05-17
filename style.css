@@ -12,6 +12,7 @@ h1, h2, p {
 
 ul.navigation {
   background-color: white;
+  display: block;
   list-style: none;
   width: 100%;
 }
@@ -22,6 +23,7 @@ ul.navigation li {
 }
 
 ul.navigation a {
+  color: black;
   display: block;
   padding: 10px;
   text-decoration: none;
