@@ -9,3 +9,22 @@ body {
 h1, h2, p {
   color: red;
 }
+
+ul.navigation {
+  list-style: none;
+}
+
+ul.navigation li {
+  display: inline;
+}
+
+ul.navigation a {
+  color: white;
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+}
+
+ul.navigation a:hover {
+  background-color: black;
+}
