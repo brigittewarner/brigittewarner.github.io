@@ -1,9 +1,3 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
 #Charm City Circulator Redesign
 
 ## Navigation
